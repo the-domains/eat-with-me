@@ -1,0 +1,28 @@
+name: Eat with Me
+favicon: null
+layout_spectrum: 0.8203875252511352
+typography_spectrum: 0.7455844441428781
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.11981340008787811
+  lightness: 0.5327772859018296
+  saturation: 0.4470507928635925
+  rhythmicContrast: 0.8509623629506677
+purpose: []
